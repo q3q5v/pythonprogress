@@ -5,3 +5,4 @@ def infect():
 
 if __name__ == '__main__':
 	infect()
+input("Sorry!: ")
